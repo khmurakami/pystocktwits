@@ -22,7 +22,7 @@ class Streamer():
         param callback = Define your own callback function name, add this parameter as the value.
         param filter (string) = Filter messages by links, charts, or videos. (Optional)
 
-        return res = Raw Json
+        return (dict) = raw json
 
         """
 
@@ -58,6 +58,8 @@ class Streamer():
         limit:	Default and max limit is 30. This limit must be a number under 30.
         callback:	Define your own callback function name, add this parameter as the value.
         filter:	Filter messages by links, charts, videos, or top. (Optional)
+
+        return (dict) = raw_json
         '''
 
         #They have it formatted it in this way
@@ -88,10 +90,11 @@ class Streamer():
         limit:	Default and max limit is 30. This limit must be a number under 30.
         callback:	Define your own callback function name, add this parameter as the value.
 
+        return (dict) = raw_json
         '''
 
         #They have it formatted it in this way
-        url = self.url + 'streams/conversation/' + symbol_id + '.json'
+        url = self.url + 'streams/conversation/' + conversation_id + '.json'
 
         data = {
                  'since' : '{}'.format(since),
