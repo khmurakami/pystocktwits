@@ -12,14 +12,23 @@ python setup.py install
 
 ## Using the Python Wrapper
 
-pystocktwits_oauth.py has not been tested yet because of the redirect_uri. If anyone has a better way of getting it using a flask app please advise. 
+pystocktwits_oauth.py has not been tested yet because of the redirect_uri. If anyone has a better way of getting it using a flask app please advise.
 
 Get Messages from a User/User.id
 ```
 from pystocktwits import Streamer
 
 twit = Streamer()
+
+#Get User Messages by ID
 print(twit.get_user_msgs("170", since=0, max=1, limit=1))
+
+#Parse the Json Output
+
+#Returns a Dictionary
+output = twit.get_user_msgs("170", since=0, max=1, limit=1))
+print(output['response']['status'])
+#Output  = 200 if the call went through sucessfully
 ```
 
 Response:
