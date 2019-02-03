@@ -1,1 +1,5 @@
 requests
+json
+csv
+pandas
+numpy
