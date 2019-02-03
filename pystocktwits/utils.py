@@ -17,7 +17,7 @@ def get_all_msgs_with_sentiment_by_user(raw_json):
 
 #def get_all_msgs_with_sentiment_by_symbol(raw_json):
 
-#def json_to_csv(raw_json):
+#def json_to_csv(raw_json, output_path):
 
 #def json_to_dataframe(raw_json):
 
