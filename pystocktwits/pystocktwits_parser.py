@@ -12,7 +12,7 @@ import numpy
 #Return only a msg
 def get_most_recent_msg_by_user(user_id):
     twit = Streamer()
-    raw_json = twit.get_user_msgs("100")
+    raw_json = twit.get_user_msgs(user_id)
     recent_msg = raw_json['messages'][0]['body']
     return recent_msg
 

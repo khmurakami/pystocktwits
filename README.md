@@ -17,11 +17,23 @@ Also listed in requirements.txt:
 
 ## Install
 
+### Install Locally
+
 This was only tested in Python 3.6
 
 ```
 python setup.py install
 ```
+
+### Install inside virtualenv
+
+```
+pip3 install virtualenv
+python3 -m virutalenv env
+source env/bin/activate
+```
+
+
 
 ## Using the Python Wrapper
 

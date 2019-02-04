@@ -1,0 +1,5 @@
+env
+build
+dist
+example_code/jupyter_notebooks/.ipynb_checkpoints/
+pystocktwits.egg-info

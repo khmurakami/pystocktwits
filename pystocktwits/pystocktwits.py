@@ -110,8 +110,3 @@ class Streamer():
 
         raw_data = r.json()
         return raw_data
-
-
-if __name__ == '__main__':
-    twit = Streamer()
-    print(twit.get_user_msgs("170"))
