@@ -45,7 +45,7 @@ class Streamer():
         raw_data = r.json()
         return raw_data
 
-    def get_symbol_msgs(self, symbol_id, since=0, max=1, limit=1, callback=None, filter=None):
+    def get_symbol_msgs(self, symbol_id, since=0, max=0, limit=0, callback=None, filter=None):
 
         '''
         Description and param's are from the documentation at stocktwits API
