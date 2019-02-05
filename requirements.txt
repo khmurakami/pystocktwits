@@ -1,5 +1,4 @@
-requests
 json
-csv
-pandas
-numpy
+requests
+
+
