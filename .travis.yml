@@ -8,4 +8,4 @@ install:
   - python setup.py install 
 
 script:
-  - python -m tests/pystocktwits_test.py
+  - python tests/pystocktwits_test.py
