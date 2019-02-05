@@ -1,1 +1,1 @@
-from pystocktwits import Streamer
+from .pystocktwits import Streamer
