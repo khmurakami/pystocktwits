@@ -65,7 +65,7 @@ Code samples can be found in example_code in "tests"
 Run test script to test if it works properly
 
 ```shell
-$ python unit_test/pystocktwits_test.py
+$ python tests/pystocktwits_test.py
 ```
 
 ## Using Curl Requests to Test
