@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/khmurakami/pystocktwits.svg?branch=master)](https://travis-ci.com/khmurakami/pystocktwits)
 
-This is a Python 3.xx API Wrapper for PyStock Twits. This sadly doesn't include most of the API methods as they require a access token which redirect you to a uri which you can get around with a flask app, but I didn't want to develop on that part as it wasn't really needed for data
+This is a Python Client for PyStock Twits. This sadly doesn't include most of the API methods as they require a access token which redirect you to a uri which you can get around with a flask app, but I didn't want to develop on that part as it wasn't really needed for data
 
 Also this API doesn't include bullish or bearish statements unless you sign up for the Partner level access. To get Partner level access to get such statements in your query you need to sign up go to <https://api.stocktwits.com/developers/contact> and sign up for a developers account.
 
