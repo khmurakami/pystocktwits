@@ -1,7 +1,8 @@
 ## pystocktwits
+[![Build Status](https://travis-ci.com/khmurakami/pystocktwits.svg?branch=master)](https://travis-ci.com/khmurakami/pystocktwits)
+
 This is a Python Client for Stock Twits.
 
-[![Build Status](https://travis-ci.com/khmurakami/pystocktwits.svg?branch=master)](https://travis-ci.com/khmurakami/pystocktwits)
 
 This sadly doesn't include most of the API methods as they require a access token which redirect you to a uri which you can get around with a flask app, but I didn't want to develop on that part as it wasn't really needed for data
 
