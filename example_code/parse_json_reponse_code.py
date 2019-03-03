@@ -1,6 +1,7 @@
-from pystocktwits import Streamer
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-import json
+from pystocktwits import Streamer
 
 #Create a Twit Streamer
 twit = Streamer()
@@ -10,10 +11,3 @@ output = twit.get_user_msgs("170")
 
 #Get Status Code through nested dict
 print(output['response']['status'])
-
-"""
-Sample Output
-
-200
-
-"""
