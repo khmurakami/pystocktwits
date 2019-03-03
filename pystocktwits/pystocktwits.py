@@ -10,8 +10,7 @@ class Streamer():
         self.url = "https://api.stocktwits.com/api/2/"
         self.headers = {'Content-Type': 'application/json'}
 
-    def get_user_msgs(self, user_id, since=0, max=0, limit=0,
-                      callback=None, filter=None):
+    def get_user_msgs(self, user_id, since=0, max=0, limit=0, callback=None, filter=None):
 
         """Returns the most recent 30 messages for the specified user.
 
@@ -53,8 +52,7 @@ class Streamer():
         raw_json = r.json()
         return raw_json
 
-    def get_symbol_msgs(self, symbol_id, since=0, max=0, limit=0,
-                        callback=None, filter=None):
+    def get_symbol_msgs(self, symbol_id, since=0, max=0, limit=0, callback=None, filter=None):
 
         '''Returns the most recent 30 messages for the specified symbol.
 
@@ -96,8 +94,7 @@ class Streamer():
         raw_json = r.json()
         return raw_json
 
-    def get_specified_conversation_msgs(self, conversation_id, since=0, max=0,
-                                        limit=0, callback=None):
+    def get_specified_conversation_msgs(self, conversation_id, since=0, max=0, limit=0, callback=None):
 
         '''
 

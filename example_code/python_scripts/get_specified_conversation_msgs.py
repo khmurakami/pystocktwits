@@ -8,9 +8,7 @@ from pystocktwits.utils import *
 twit = Streamer()
 
 # Pass in all parameters to query search
-raw_json = twit.get_specified_conversation_msgs(conversation_id="102919",
-                                                since=0, max=30, limit=30,
-                                                callback=None, filter="links")
+raw_json = twit.get_specified_conversation_msgs(conversation_id="10349526", since=1, max=30, limit=30, callback=None)
 
 # Return the raw_json as a JSON file
 return_json_file(raw_json,

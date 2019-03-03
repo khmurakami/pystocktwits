@@ -8,9 +8,9 @@ from pystocktwits.utils import *
 twit = Streamer()
 
 # Pass in all parameters to query search
-raw_json = twit.get_symbol_msgs(user_id="APPL", since=0, max=30,
-                                limit=30, callback=None, filter="links")
+raw_json = twit.get_user_msgs(user_id="180", since=0, max=0, limit=30, callback=None, filter=None)
 
-return_json_file(raw_json, "../sample_json_output/get_symbol_msgs.json")
+# Return raw json as JSON file
+return_json_file(raw_json, "../sample_json_output/get_user_msgs.json")
 
 print(raw_json)

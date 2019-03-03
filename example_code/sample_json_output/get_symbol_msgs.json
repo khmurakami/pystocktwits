@@ -1,0 +1,2450 @@
+{
+    "cursor": {
+        "max": 155604916, 
+        "more": true, 
+        "since": 155614013
+    }, 
+    "messages": [
+        {
+            "body": "@sonicmerlin short term $SPY will oscillate around her NAV from momentum &amp; FOMO. But over a few quarters SPY will follow $MSFT $AAPL $AMZN", 
+            "conversation": {
+                "in_reply_to_message_id": 155613895, 
+                "parent": false, 
+                "parent_message_id": 155613408, 
+                "replies": 5
+            }, 
+            "created_at": "2019-03-03T05:38:09Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155614013, 
+            "mentioned_users": [
+                "@sonicmerlin"
+            ], 
+            "source": {
+                "id": 2095, 
+                "title": "StockTwits For Android ", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286188
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 864, 
+                    "is_following": false, 
+                    "symbol": "AMZN", 
+                    "title": "Amazon.com Inc.", 
+                    "watchlist_count": 196430
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 2735, 
+                    "is_following": false, 
+                    "symbol": "MSFT", 
+                    "title": "Microsoft Corporation", 
+                    "watchlist_count": 113437
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 7271, 
+                    "is_following": false, 
+                    "symbol": "SPY", 
+                    "title": "SPDR S&P 500", 
+                    "watchlist_count": 115513
+                }
+            ], 
+            "user": {
+                "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg", 
+                "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg", 
+                "classification": [], 
+                "followers": 20, 
+                "following": 2, 
+                "id": 1096966, 
+                "ideas": 975, 
+                "identity": "User", 
+                "join_date": "2017-06-20", 
+                "like_count": 136, 
+                "name": "Mike", 
+                "official": false, 
+                "username": "rubr", 
+                "watchlist_stocks_count": 24
+            }
+        }, 
+        {
+            "body": "$AAPL this one to do a break out from flag and reclaim 195", 
+            "created_at": "2019-03-03T05:33:24Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            }, 
+            "id": 155613912, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2095, 
+                "title": "StockTwits For Android ", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286188
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1357971/thumb-1543937749.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1357971/thumb-1543937749.png", 
+                "classification": [], 
+                "followers": 18, 
+                "following": 13, 
+                "id": 1357971, 
+                "ideas": 1264, 
+                "identity": "User", 
+                "join_date": "2018-01-08", 
+                "like_count": 1181, 
+                "name": "G Flash", 
+                "official": false, 
+                "username": "nimbus9", 
+                "watchlist_stocks_count": 12
+            }
+        }, 
+        {
+            "body": "$AAPL Does anime know any other alternatives to StockTwits???", 
+            "created_at": "2019-03-03T05:27:14Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155613778, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286188
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1198368/thumb-1521236518.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1198368/thumb-1521236518.png", 
+                "classification": [], 
+                "followers": 15, 
+                "following": 16, 
+                "id": 1198368, 
+                "ideas": 795, 
+                "identity": "User", 
+                "join_date": "2017-09-21", 
+                "like_count": 669, 
+                "name": "S.M.", 
+                "official": false, 
+                "username": "Swamp_Monster_", 
+                "watchlist_stocks_count": 33
+            }
+        }, 
+        {
+            "body": "$FB I hope the new crypto $FB announces is called ZuckBucks. \n\nZuckBucks &gt; Gold\n\n$AAPL $AMZN $NFLX $GOOGL $NIO $NVDA \n\n#Zuck2020", 
+            "created_at": "2019-03-03T05:02:48Z", 
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_155613270.png", 
+                    "original": "https://charts.stocktwits.com/production/original_155613270.png", 
+                    "thumb": "https://charts.stocktwits.com/production/small_155613270.png", 
+                    "url": "https://charts.stocktwits.com/production/original_155613270.png"
+                }, 
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            }, 
+            "id": 155613270, 
+            "likes": {
+                "total": 2, 
+                "user_ids": [
+                    1393909, 
+                    1068132
+                ]
+            }, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286188
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 864, 
+                    "is_following": false, 
+                    "symbol": "AMZN", 
+                    "title": "Amazon.com Inc.", 
+                    "watchlist_count": 196425
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 2839, 
+                    "is_following": false, 
+                    "symbol": "NFLX", 
+                    "title": "Netflix, Inc.", 
+                    "watchlist_count": 166943
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 2925, 
+                    "is_following": false, 
+                    "symbol": "NVDA", 
+                    "title": "NVIDIA Corporation", 
+                    "watchlist_count": 128349
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 6499, 
+                    "is_following": false, 
+                    "symbol": "NIO", 
+                    "title": "NIO Inc.", 
+                    "watchlist_count": 27371
+                }, 
+                {
+                    "aliases": [
+                        "FBOOK"
+                    ], 
+                    "id": 7871, 
+                    "is_following": false, 
+                    "symbol": "FB", 
+                    "title": "Facebook", 
+                    "watchlist_count": 204398
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 11938, 
+                    "is_following": false, 
+                    "symbol": "GOOGL", 
+                    "title": "Alphabet Inc. Class A", 
+                    "watchlist_count": 59736
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/493226/thumb-1547272609.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/493226/thumb-1547272609.png", 
+                "classification": [], 
+                "followers": 43, 
+                "following": 37, 
+                "id": 493226, 
+                "ideas": 1312, 
+                "identity": "User", 
+                "join_date": "2015-03-29", 
+                "like_count": 1662, 
+                "name": "ZuckerbergTheUncuckable", 
+                "official": false, 
+                "username": "ZuckerbergTheUncuckable", 
+                "watchlist_stocks_count": 30
+            }
+        }, 
+        {
+            "body": "@MayBull74 $AAPL or $GOOGL should acquire $TNDM  . Cramer said AAPL should acquire $DXCM ..", 
+            "conversation": {
+                "in_reply_to_message_id": 155597269, 
+                "parent": false, 
+                "parent_message_id": 155597269, 
+                "replies": 4
+            }, 
+            "created_at": "2019-03-03T04:41:49Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155612880, 
+            "likes": {
+                "total": 2, 
+                "user_ids": [
+                    1358821, 
+                    1665434
+                ]
+            }, 
+            "mentioned_users": [
+                "@MayBull74"
+            ], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286188
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 1660, 
+                    "is_following": false, 
+                    "symbol": "DXCM", 
+                    "title": "DexCom, Inc.", 
+                    "watchlist_count": 2637
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 3825, 
+                    "is_following": false, 
+                    "symbol": "TNDM", 
+                    "title": "Tandem Diabetes Care Inc", 
+                    "watchlist_count": 12890
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 11938, 
+                    "is_following": false, 
+                    "symbol": "GOOGL", 
+                    "title": "Alphabet Inc. Class A", 
+                    "watchlist_count": 59736
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/349810/thumb-1467787162.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/349810/thumb-1467787162.png", 
+                "classification": [], 
+                "followers": 45384, 
+                "following": 268, 
+                "id": 349810, 
+                "ideas": 169579, 
+                "identity": "User", 
+                "join_date": "2014-05-03", 
+                "like_count": 43722, 
+                "name": "cybercash28", 
+                "official": false, 
+                "username": "cybercash28", 
+                "watchlist_stocks_count": 34
+            }
+        }, 
+        {
+            "body": "$TSLA $AAPL Trip Chowdhry should try Apple products before he opens his mouth. He is clueless and ignorant.", 
+            "created_at": "2019-03-03T04:20:37Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155612438, 
+            "mentioned_users": [], 
+            "reshare_message": {
+                "message": {
+                    "body": "$TSLA Trip Chowdhry brilliant! on $AAPL burning $90Billion on buybacks n dividends. Meanwhile no innovation,no vision.  Swear reads my mind", 
+                    "created_at": "2019-03-03T03:59:46Z", 
+                    "entities": {
+                        "sentiment": {
+                            "basic": "Bullish"
+                        }
+                    }, 
+                    "id": 155611843, 
+                    "likes": {
+                        "total": 1, 
+                        "user_ids": [
+                            1489953
+                        ]
+                    }, 
+                    "mentioned_users": [], 
+                    "source": {
+                        "id": 1149, 
+                        "title": "StockTwits for iOS", 
+                        "url": "http://www.stocktwits.com/mobile"
+                    }, 
+                    "symbols": [
+                        {
+                            "aliases": [], 
+                            "id": 686, 
+                            "is_following": false, 
+                            "symbol": "AAPL", 
+                            "title": "Apple Inc.", 
+                            "watchlist_count": 286186
+                        }, 
+                        {
+                            "aliases": [], 
+                            "id": 8660, 
+                            "is_following": false, 
+                            "symbol": "TSLA", 
+                            "title": "Tesla, Inc.", 
+                            "watchlist_count": 201784
+                        }
+                    ], 
+                    "user": {
+                        "avatar_url": "https://avatars.stocktwits.com/production/604453/thumb-1538065764.png", 
+                        "avatar_url_ssl": "https://avatars.stocktwits.com/production/604453/thumb-1538065764.png", 
+                        "classification": [], 
+                        "followers": 9, 
+                        "following": 0, 
+                        "id": 604453, 
+                        "ideas": 3610, 
+                        "identity": "User", 
+                        "join_date": "2015-09-23", 
+                        "like_count": 20, 
+                        "name": "William", 
+                        "official": false, 
+                        "username": "SrHeisenbergBug", 
+                        "watchlist_stocks_count": 10
+                    }
+                }, 
+                "parent_reshared_deleted": false, 
+                "reshared_count": 1, 
+                "reshared_deleted": false, 
+                "reshared_user_deleted": false
+            }, 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286186
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 8660, 
+                    "is_following": false, 
+                    "symbol": "TSLA", 
+                    "title": "Tesla, Inc.", 
+                    "watchlist_count": 201784
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/847223/thumb-1541820299.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/847223/thumb-1541820299.png", 
+                "classification": [], 
+                "followers": 24, 
+                "following": 76, 
+                "id": 847223, 
+                "ideas": 1604, 
+                "identity": "User", 
+                "join_date": "2016-09-26", 
+                "like_count": 598, 
+                "name": "Andy", 
+                "official": false, 
+                "username": "andy64", 
+                "watchlist_stocks_count": 26
+            }
+        }, 
+        {
+            "body": "$AAPL \n\nApple Pwnz", 
+            "created_at": "2019-03-03T04:12:28Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            }, 
+            "id": 155612216, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286186
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1767327/thumb-1546883516.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1767327/thumb-1546883516.png", 
+                "classification": [], 
+                "followers": 14, 
+                "following": 16, 
+                "id": 1767327, 
+                "ideas": 1281, 
+                "identity": "User", 
+                "join_date": "2018-12-19", 
+                "like_count": 1273, 
+                "name": "TheCrowsNest", 
+                "official": false, 
+                "username": "TheCrowsNest", 
+                "watchlist_stocks_count": 20
+            }
+        }, 
+        {
+            "body": "$TSLA Trip Chowdhry brilliant! on $AAPL burning $90Billion on buybacks n dividends. Meanwhile no innovation,no vision.  Swear reads my mind", 
+            "created_at": "2019-03-03T03:59:46Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            }, 
+            "id": 155611843, 
+            "likes": {
+                "total": 4, 
+                "user_ids": [
+                    1489953, 
+                    1486053, 
+                    1239426, 
+                    1569947
+                ]
+            }, 
+            "mentioned_users": [], 
+            "reshares": {
+                "reshared_count": 1, 
+                "user_ids": [
+                    847223
+                ]
+            }, 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286188
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 8660, 
+                    "is_following": false, 
+                    "symbol": "TSLA", 
+                    "title": "Tesla, Inc.", 
+                    "watchlist_count": 201790
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/604453/thumb-1538065764.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/604453/thumb-1538065764.png", 
+                "classification": [], 
+                "followers": 9, 
+                "following": 0, 
+                "id": 604453, 
+                "ideas": 3611, 
+                "identity": "User", 
+                "join_date": "2015-09-23", 
+                "like_count": 20, 
+                "name": "William", 
+                "official": false, 
+                "username": "SrHeisenbergBug", 
+                "watchlist_stocks_count": 10
+            }
+        }, 
+        {
+            "body": "$AAPL per Tim Cook, Apple now has 360 million subscriptions.", 
+            "created_at": "2019-03-03T03:24:17Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            }, 
+            "id": 155610937, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/165596/thumb-1416323558.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/165596/thumb-1416323558.png", 
+                "classification": [], 
+                "followers": 198, 
+                "following": 61, 
+                "id": 165596, 
+                "ideas": 15507, 
+                "identity": "User", 
+                "join_date": "2012-06-26", 
+                "like_count": 4680, 
+                "name": "Calvin Grinder", 
+                "official": false, 
+                "username": "calvingrinder", 
+                "watchlist_stocks_count": 26
+            }
+        }, 
+        {
+            "body": "$TSLA $FB $AAPL $NFLX I wish the market is open on weekends. Uhh it\u2019s so boring no adrenaline.", 
+            "conversation": {
+                "in_reply_to_message_id": null, 
+                "parent": true, 
+                "parent_message_id": 155610590, 
+                "replies": 5
+            }, 
+            "created_at": "2019-03-03T03:12:13Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155610590, 
+            "likes": {
+                "total": 6, 
+                "user_ids": [
+                    573157, 
+                    1653555, 
+                    1755221, 
+                    637003, 
+                    1569947, 
+                    422829
+                ]
+            }, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286188
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 2839, 
+                    "is_following": false, 
+                    "symbol": "NFLX", 
+                    "title": "Netflix, Inc.", 
+                    "watchlist_count": 166943
+                }, 
+                {
+                    "aliases": [
+                        "FBOOK"
+                    ], 
+                    "id": 7871, 
+                    "is_following": false, 
+                    "symbol": "FB", 
+                    "title": "Facebook", 
+                    "watchlist_count": 204398
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 8660, 
+                    "is_following": false, 
+                    "symbol": "TSLA", 
+                    "title": "Tesla, Inc.", 
+                    "watchlist_count": 201790
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/149048/thumb-1379124081.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/149048/thumb-1379124081.png", 
+                "classification": [], 
+                "followers": 67, 
+                "following": 23, 
+                "id": 149048, 
+                "ideas": 2738, 
+                "identity": "User", 
+                "join_date": "2012-04-11", 
+                "like_count": 200, 
+                "name": "Kichikov", 
+                "official": false, 
+                "username": "Stocksfy", 
+                "watchlist_stocks_count": 138
+            }
+        }, 
+        {
+            "body": "https://www.forbes.com/sites/davidphelan/2019/03/02/airpods-2-rumor-reveals-more-details-including-release-date-this-month/amp/\n\n$AAPL", 
+            "created_at": "2019-03-03T03:04:08Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155610382, 
+            "links": [
+                {
+                    "created_at": "2019-03-03T03:04:08Z", 
+                    "description": "Oh, Apple, how we've fallen in love with your spiffy little AirPods. Sure, they initially looked a bit strange, but we've got used to that now and they look, well, how shall I put it? I rarely use this word, but I will: iconic.", 
+                    "image": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fblogs-images.forbes.com%2Fdavidphelan%2Ffiles%2F2019%2F03%2FUNADJUSTEDNONRAW_thumb_14df8.jpg", 
+                    "shortened_expanded_url": "forbes.com/sites/davidphela...", 
+                    "shortened_url": "https://www.forbes.com/sites/davidphelan/2019/03/02/airpods-2-rumor-reveals-more-details-including-release-date-this-month/amp/", 
+                    "source": {
+                        "name": "Forbes", 
+                        "website": "https://www.forbes.com"
+                    }, 
+                    "title": "AirPods 2 Rumor Reveals More Details Including Release Date This Month", 
+                    "url": "https://www.forbes.com/sites/davidphelan/2019/03/02/airpods-2-rumor-reveals-more-details-including-release-date-this-month/amp/", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2095, 
+                "title": "StockTwits For Android ", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1427689/thumb-1551573058.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1427689/thumb-1551573058.png", 
+                "classification": [], 
+                "followers": 1169, 
+                "following": 52, 
+                "id": 1427689, 
+                "ideas": 16228, 
+                "identity": "User", 
+                "join_date": "2018-02-28", 
+                "like_count": 6848, 
+                "name": "Mr E.", 
+                "official": false, 
+                "username": "sevenxs", 
+                "watchlist_stocks_count": 22
+            }
+        }, 
+        {
+            "body": "$BRK.A Equity Stake: \n$AAPL  \n$BAC  \n$WFC  \n$KO  \n$AXP  \n$KHC  \n$USB  \n \n72% of total holdings", 
+            "created_at": "2019-03-03T03:02:30Z", 
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_155610335.JPG", 
+                    "original": "https://charts.stocktwits.com/production/original_155610335.JPG", 
+                    "thumb": "https://charts.stocktwits.com/production/small_155610335.JPG", 
+                    "url": "https://charts.stocktwits.com/production/original_155610335.JPG"
+                }, 
+                "sentiment": null
+            }, 
+            "id": 155610335, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 4423, 
+                    "is_following": false, 
+                    "symbol": "AXP", 
+                    "title": "American Express Company", 
+                    "watchlist_count": 8341
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 4438, 
+                    "is_following": false, 
+                    "symbol": "BAC", 
+                    "title": "Bank of America Corporation", 
+                    "watchlist_count": 70579
+                }, 
+                {
+                    "aliases": [
+                        "BRKA"
+                    ], 
+                    "id": 4586, 
+                    "is_following": false, 
+                    "symbol": "BRK.A", 
+                    "title": "Berkshire Hathaway Inc.", 
+                    "watchlist_count": 4606
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 6102, 
+                    "is_following": false, 
+                    "symbol": "KO", 
+                    "title": "The Coca-Cola Company", 
+                    "watchlist_count": 19010
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 7584, 
+                    "is_following": false, 
+                    "symbol": "USB", 
+                    "title": "U.S. Bancorp", 
+                    "watchlist_count": 1935
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 7718, 
+                    "is_following": false, 
+                    "symbol": "WFC", 
+                    "title": "Wells Fargo & Company", 
+                    "watchlist_count": 24926
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 12741, 
+                    "is_following": false, 
+                    "symbol": "KHC", 
+                    "title": "The Kraft Heinz Company", 
+                    "watchlist_count": 8296
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1546193/thumb-1544026685.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1546193/thumb-1544026685.png", 
+                "classification": [], 
+                "followers": 0, 
+                "following": 0, 
+                "id": 1546193, 
+                "ideas": 40, 
+                "identity": "User", 
+                "join_date": "2018-07-13", 
+                "like_count": 4, 
+                "name": "Jim J", 
+                "official": false, 
+                "username": "jjmathew2", 
+                "watchlist_stocks_count": 0
+            }
+        }, 
+        {
+            "body": "$AAPL rolling dice HAH https://finance.yahoo.com/news/cook-says-apple-rolling-dice-192325470.html", 
+            "created_at": "2019-03-03T02:46:26Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bearish"
+                }
+            }, 
+            "id": 155609895, 
+            "links": [
+                {
+                    "created_at": "2019-03-03T02:46:28Z", 
+                    "description": "Speaking at the company's annual general meeting in Cupertino, California, Cook reiterated that the iPhone maker is still on track to double revenue from services in 2020 from the nearly $25 billion in 2016. Referencing speaking notes on an iPad, Cook touched on several of the company's product categories", 
+                    "image": "https://s.yimg.com/nn/lib/metro/DailyFantasy_BN_Baseball_300x250-min.jpg", 
+                    "shortened_expanded_url": "finance.yahoo.com/news/cook...", 
+                    "shortened_url": "https://finance.yahoo.com/news/cook-says-apple-rolling-dice-192325470.html", 
+                    "source": {
+                        "name": "Yahoo", 
+                        "website": "https://finance.yahoo.com"
+                    }, 
+                    "title": "Cook Says Apple Is 'Rolling the Dice' on Future Products", 
+                    "url": "https://finance.yahoo.com/news/cook-says-apple-rolling-dice-192325470.html", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }
+            ], 
+            "user": {
+                "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg", 
+                "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg", 
+                "classification": [], 
+                "followers": 4, 
+                "following": 0, 
+                "id": 20013, 
+                "ideas": 430, 
+                "identity": "User", 
+                "join_date": "2010-07-28", 
+                "like_count": 406, 
+                "name": "tomasz", 
+                "official": false, 
+                "username": "tama007", 
+                "watchlist_stocks_count": 7
+            }
+        }, 
+        {
+            "body": "$AAPL we will retest those lows 142., my puts at 160 by March 15th,good luck all", 
+            "conversation": {
+                "in_reply_to_message_id": null, 
+                "parent": true, 
+                "parent_message_id": 155609245, 
+                "replies": 1
+            }, 
+            "created_at": "2019-03-03T02:21:55Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bearish"
+                }
+            }, 
+            "id": 155609245, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }
+            ], 
+            "user": {
+                "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg", 
+                "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg", 
+                "classification": [], 
+                "followers": 4, 
+                "following": 0, 
+                "id": 20013, 
+                "ideas": 430, 
+                "identity": "User", 
+                "join_date": "2010-07-28", 
+                "like_count": 405, 
+                "name": "tomasz", 
+                "official": false, 
+                "username": "tama007", 
+                "watchlist_stocks_count": 7
+            }
+        }, 
+        {
+            "body": "$AAPL business analyst believes not to hire good engineers they will have to copy the Samsung fold and claim the fold is patented by them", 
+            "conversation": {
+                "in_reply_to_message_id": null, 
+                "parent": true, 
+                "parent_message_id": 155609127, 
+                "replies": 1
+            }, 
+            "created_at": "2019-03-03T02:17:23Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bearish"
+                }
+            }, 
+            "id": 155609127, 
+            "likes": {
+                "total": 1, 
+                "user_ids": [
+                    1460147
+                ]
+            }, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1338263/thumb-1515495891.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1338263/thumb-1515495891.png", 
+                "classification": [], 
+                "followers": 274, 
+                "following": 5, 
+                "id": 1338263, 
+                "ideas": 8445, 
+                "identity": "User", 
+                "join_date": "2017-12-28", 
+                "like_count": 7773, 
+                "name": "D", 
+                "official": false, 
+                "username": "__pony__", 
+                "watchlist_stocks_count": 11
+            }
+        }, 
+        {
+            "body": "$AAPL has an average volume of 35921900. This is a good sign as it is always nice to have a liquid stock. https://www.chartmill.com/analyze.php?utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=TA&amp;utm_campaign=social_tracking#/AAPL?key=bb853040-a4ac-41c6-b549-d218d2f21b32", 
+            "created_at": "2019-03-03T01:58:09Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155608643, 
+            "links": [
+                {
+                    "created_at": "2019-03-03T01:58:09Z", 
+                    "description": "Technical Analysis reports, Fundamental Analysis reports. Visualize and inspect technical and fundamental ratings of stocks on NASDAQ,NYSE,AMEX,TSX,LSE,Euronext", 
+                    "image": null, 
+                    "shortened_expanded_url": "chartmill.com/analyze.php?u...", 
+                    "shortened_url": "https://www.chartmill.com/analyze.php?utm_source=stocktwits&utm_medium=TA&utm_content=TA&utm_campaign=social_tracking#/AAPL?key=bb853040-a4ac-41c6-b549-d218d2f21b32", 
+                    "source": {
+                        "name": "Chartmill", 
+                        "website": "https://www.chartmill.com"
+                    }, 
+                    "title": "ChartMill.com | Technical and Fundamental Analysis Report", 
+                    "url": "https://www.chartmill.com/analyze.php?utm_source=stocktwits&utm_medium=TA&utm_content=TA&utm_campaign=social_tracking#/AAPL?key=bb853040-a4ac-41c6-b549-d218d2f21b32", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1135, 
+                "title": "ChartMill", 
+                "url": "http://www.chartmill.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286175
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png", 
+                "classification": [], 
+                "followers": 9541, 
+                "following": 909, 
+                "id": 47688, 
+                "ideas": 482301, 
+                "identity": "User", 
+                "join_date": "2011-01-26", 
+                "like_count": 32, 
+                "name": "ChartMill", 
+                "official": false, 
+                "username": "ChartMill", 
+                "watchlist_stocks_count": 20
+            }
+        }, 
+        {
+            "body": "$TSLA $nio $AAPL $amzn $oncs $TNDM   market wrap by Dr J \u2014-charts\u2014-just released https://youtu.be/KCLxkpcMzo0", 
+            "created_at": "2019-03-03T01:36:36Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            }, 
+            "id": 155607993, 
+            "likes": {
+                "total": 1, 
+                "user_ids": [
+                    1755800
+                ]
+            }, 
+            "links": [
+                {
+                    "created_at": "2019-03-03T01:36:36Z", 
+                    "description": "Weekly Market Wrap Mar 1,19 by Dr J djia amd aapl oncs fit dvna snap iwm nio tsla twtr acb cgc tndm amzn Do your own due diligence and/or consult with your investment advisor. My opinions are my own and do not constitute investment advice.", 
+                    "image": "https://i.ytimg.com/vi/KCLxkpcMzo0/hqdefault.jpg", 
+                    "shortened_expanded_url": "youtube.com/watch?v=KCLxkpc...", 
+                    "shortened_url": "https://youtu.be/KCLxkpcMzo0", 
+                    "source": {
+                        "name": "YouTube", 
+                        "website": "https://www.youtube.com/"
+                    }, 
+                    "title": "Weekly Market Wrap 3/1 by Dr J djia amd aapl amzn oncs fit dvna snap iwm nio tsla twtr acb cgc tndm", 
+                    "url": "https://youtu.be/KCLxkpcMzo0", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 864, 
+                    "is_following": false, 
+                    "symbol": "AMZN", 
+                    "title": "Amazon.com Inc.", 
+                    "watchlist_count": 196408
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 3825, 
+                    "is_following": false, 
+                    "symbol": "TNDM", 
+                    "title": "Tandem Diabetes Care Inc", 
+                    "watchlist_count": 12890
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 6499, 
+                    "is_following": false, 
+                    "symbol": "NIO", 
+                    "title": "NIO Inc.", 
+                    "watchlist_count": 27357
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 8660, 
+                    "is_following": false, 
+                    "symbol": "TSLA", 
+                    "title": "Tesla, Inc.", 
+                    "watchlist_count": 201763
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 12652, 
+                    "is_following": false, 
+                    "symbol": "ONCS", 
+                    "title": "OncoSec Medical Incorporated", 
+                    "watchlist_count": 9295
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/2903/thumb-1267104251.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/2903/thumb-1267104251.png", 
+                "classification": [], 
+                "followers": 529, 
+                "following": 996, 
+                "id": 2903, 
+                "ideas": 2880, 
+                "identity": "User", 
+                "join_date": "2009-09-09", 
+                "like_count": 2023, 
+                "name": "Joe Morgan", 
+                "official": false, 
+                "username": "jerchess", 
+                "watchlist_stocks_count": 138
+            }
+        }, 
+        {
+            "body": "$AAPL $BAC $COST $BRK.B $BRK.A  $BRK.A $BRK.B Three stocks to buy if you want to get slaughtered: https://www.fool.com/investing/2019/03/02/3-warren-buffett-stocks-to-buy-in-march.aspx | :D", 
+            "created_at": "2019-03-03T01:30:33Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bearish"
+                }
+            }, 
+            "id": 155607784, 
+            "likes": {
+                "total": 1, 
+                "user_ids": [
+                    20013
+                ]
+            }, 
+            "links": [
+                {
+                    "created_at": "2019-03-03T01:30:33Z", 
+                    "description": "Warren Buffett has helped steer Berkshire Hathaway to gains of more than 2 million percent over the last 54 years, good for an average annual growth rate of roughly 20% across the stretch -- a staggering return that roughly doubled the market's annual gains. Keith Noonan has no position in any of the stocks mentioned.", 
+                    "image": "https://g.foolcdn.com/editorial/images/513327/warren-buffett.jpg", 
+                    "shortened_expanded_url": "fool.com/investing/2019/03/...", 
+                    "shortened_url": "https://www.fool.com/investing/2019/03/02/3-warren-buffett-stocks-to-buy-in-march.aspx", 
+                    "source": {
+                        "name": "The Motley Fool", 
+                        "website": "https://www.fool.com"
+                    }, 
+                    "title": "3 Warren Buffett Stocks to Buy in March -- The Motley Fool", 
+                    "url": "https://www.fool.com/investing/2019/03/02/3-warren-buffett-stocks-to-buy-in-march.aspx", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 1403, 
+                    "is_following": false, 
+                    "symbol": "COST", 
+                    "title": "Costco Wholesale Corporation", 
+                    "watchlist_count": 18431
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 4438, 
+                    "is_following": false, 
+                    "symbol": "BAC", 
+                    "title": "Bank of America Corporation", 
+                    "watchlist_count": 70579
+                }, 
+                {
+                    "aliases": [
+                        "BRKA"
+                    ], 
+                    "id": 4586, 
+                    "is_following": false, 
+                    "symbol": "BRK.A", 
+                    "title": "Berkshire Hathaway Inc.", 
+                    "watchlist_count": 4606
+                }, 
+                {
+                    "aliases": [
+                        "BRKB"
+                    ], 
+                    "id": 8132, 
+                    "is_following": false, 
+                    "symbol": "BRK.B", 
+                    "title": "Berkshire Hathaway Inc.", 
+                    "watchlist_count": 17728
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1755869/thumb-1551570211.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1755869/thumb-1551570211.png", 
+                "classification": [], 
+                "followers": 1, 
+                "following": 18, 
+                "id": 1755869, 
+                "ideas": 3, 
+                "identity": "User", 
+                "join_date": "2018-12-11", 
+                "like_count": 16, 
+                "name": "Ben Gottlieb", 
+                "official": false, 
+                "username": "BenGottlieb", 
+                "watchlist_stocks_count": 0
+            }
+        }, 
+        {
+            "body": "$SPY Some solid gains this week on $TSLA. Overall up 638% this week between Tesla, SPX &amp; $AAPL plays. Going for 200% next week!", 
+            "conversation": {
+                "in_reply_to_message_id": null, 
+                "parent": true, 
+                "parent_message_id": 155607676, 
+                "replies": 8
+            }, 
+            "created_at": "2019-03-03T01:27:00Z", 
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_155607676.png", 
+                    "original": "https://charts.stocktwits.com/production/original_155607676.png", 
+                    "thumb": "https://charts.stocktwits.com/production/small_155607676.png", 
+                    "url": "https://charts.stocktwits.com/production/original_155607676.png"
+                }, 
+                "sentiment": null
+            }, 
+            "id": 155607676, 
+            "likes": {
+                "total": 9, 
+                "user_ids": [
+                    1651737, 
+                    1241426, 
+                    1416746, 
+                    1688493, 
+                    880937, 
+                    1299510, 
+                    866332, 
+                    1198948, 
+                    1682519
+                ]
+            }, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 7271, 
+                    "is_following": false, 
+                    "symbol": "SPY", 
+                    "title": "SPDR S&P 500", 
+                    "watchlist_count": 115512
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 8660, 
+                    "is_following": false, 
+                    "symbol": "TSLA", 
+                    "title": "Tesla, Inc.", 
+                    "watchlist_count": 201771
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1501104/thumb-1551568546.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1501104/thumb-1551568546.png", 
+                "classification": [], 
+                "followers": 1323, 
+                "following": 7, 
+                "id": 1501104, 
+                "ideas": 4875, 
+                "identity": "User", 
+                "join_date": "2018-05-21", 
+                "like_count": 152, 
+                "name": "Alexander", 
+                "official": false, 
+                "username": "SMProTrades", 
+                "watchlist_stocks_count": 24
+            }
+        }, 
+        {
+            "body": "$AAPL $AMZN so what if Friday was just a bull trap?", 
+            "conversation": {
+                "in_reply_to_message_id": null, 
+                "parent": true, 
+                "parent_message_id": 155607423, 
+                "replies": 1
+            }, 
+            "created_at": "2019-03-03T01:20:26Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155607423, 
+            "likes": {
+                "total": 2, 
+                "user_ids": [
+                    1558301, 
+                    1755800
+                ]
+            }, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 864, 
+                    "is_following": false, 
+                    "symbol": "AMZN", 
+                    "title": "Amazon.com Inc.", 
+                    "watchlist_count": 196408
+                }
+            ], 
+            "user": {
+                "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg", 
+                "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg", 
+                "classification": [], 
+                "followers": 0, 
+                "following": 50, 
+                "id": 906165, 
+                "ideas": 192, 
+                "identity": "User", 
+                "join_date": "2016-12-20", 
+                "like_count": 41, 
+                "name": "Whats Up", 
+                "official": false, 
+                "username": "WhatsUpYall", 
+                "watchlist_stocks_count": 10
+            }
+        }, 
+        {
+            "body": "$AAPL watch out for March FOMO.", 
+            "created_at": "2019-03-03T01:16:03Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155607291, 
+            "likes": {
+                "total": 1, 
+                "user_ids": [
+                    713758
+                ]
+            }, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286175
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/392418/thumb-1440468604.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/392418/thumb-1440468604.png", 
+                "classification": [], 
+                "followers": 87, 
+                "following": 11, 
+                "id": 392418, 
+                "ideas": 3794, 
+                "identity": "User", 
+                "join_date": "2014-08-26", 
+                "like_count": 43, 
+                "name": "Steve Jobs", 
+                "official": false, 
+                "username": "StevePaulJobs", 
+                "watchlist_stocks_count": 36
+            }
+        }, 
+        {
+            "body": "$GOOGL $AAPL $AMZN $CMG Long and strong. Higher prices coming and coming fast!", 
+            "created_at": "2019-03-03T01:07:23Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155607063, 
+            "likes": {
+                "total": 2, 
+                "user_ids": [
+                    1755800, 
+                    1249929
+                ]
+            }, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2095, 
+                "title": "StockTwits For Android ", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286186
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 864, 
+                    "is_following": false, 
+                    "symbol": "AMZN", 
+                    "title": "Amazon.com Inc.", 
+                    "watchlist_count": 196424
+                }, 
+                {
+                    "aliases": [
+                        "CMGB"
+                    ], 
+                    "id": 4768, 
+                    "is_following": false, 
+                    "symbol": "CMG", 
+                    "title": "Chipotle Mexican Grill, Inc.", 
+                    "watchlist_count": 33269
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 11938, 
+                    "is_following": false, 
+                    "symbol": "GOOGL", 
+                    "title": "Alphabet Inc. Class A", 
+                    "watchlist_count": 59736
+                }
+            ], 
+            "user": {
+                "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg", 
+                "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg", 
+                "classification": [], 
+                "followers": 0, 
+                "following": 0, 
+                "id": 1908661, 
+                "ideas": 55, 
+                "identity": "User", 
+                "join_date": "2019-03-03", 
+                "like_count": 36, 
+                "name": "Jada Stoxx", 
+                "official": false, 
+                "username": "jadastoxx", 
+                "watchlist_stocks_count": 1
+            }
+        }, 
+        {
+            "body": "$GE $BAC $AMD $LLY $GPS $F $BMY $T $HPQ $MU $SWN $AAPL $PFE $CSCO $HPE $MSFT $KHC $KMI \n\nS&amp;P500: Most Active Stocks\n\nhttps://bullbearcharts.blogspot.com/2019/03/s-500-index-most-active-stocks.html", 
+            "created_at": "2019-03-03T00:37:49Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155606160, 
+            "likes": {
+                "total": 1, 
+                "user_ids": [
+                    1640377
+                ]
+            }, 
+            "links": [
+                {
+                    "created_at": "2019-03-03T00:37:51Z", 
+                    "description": "View the most active stocks traded during the day sorted on value as well as volumes. Performance is historical and does not guarantee future results; current performance may be lower or higher. S&P 500 INDEX : Performance and Volume", 
+                    "image": "https://2.bp.blogspot.com/-2dnKAzSf_4g/XHshUAk7P_I/AAAAAAAABhM/U_WkXG95uAsJ7QuInfUct3Niq8e4whsWgCLcBGAs/s1600/SP500%2B-%2BMOST%2BACTIVE.png", 
+                    "shortened_expanded_url": "bullbearcharts.blogspot.com...", 
+                    "shortened_url": "https://bullbearcharts.blogspot.com/2019/03/s-500-index-most-active-stocks.html", 
+                    "source": {
+                        "name": "Bullbearcharts", 
+                        "website": "http://bullbearcharts.blogspot.com"
+                    }, 
+                    "title": "S&P 500 INDEX - Most Active Stocks", 
+                    "url": "https://bullbearcharts.blogspot.com/2019/03/s-500-index-most-active-stocks.html", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286175
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 1471, 
+                    "is_following": false, 
+                    "symbol": "CSCO", 
+                    "title": "Cisco Systems, Inc.", 
+                    "watchlist_count": 30550
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 2735, 
+                    "is_following": false, 
+                    "symbol": "MSFT", 
+                    "title": "Microsoft Corporation", 
+                    "watchlist_count": 113429
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 4331, 
+                    "is_following": false, 
+                    "symbol": "AMD", 
+                    "title": "Advanced Micro Devices, Inc.", 
+                    "watchlist_count": 160610
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 4438, 
+                    "is_following": false, 
+                    "symbol": "BAC", 
+                    "title": "Bank of America Corporation", 
+                    "watchlist_count": 70572
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 4559, 
+                    "is_following": false, 
+                    "symbol": "BMY", 
+                    "title": "Bristol-Myers Squibb Company", 
+                    "watchlist_count": 9630
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 5281, 
+                    "is_following": false, 
+                    "symbol": "F", 
+                    "title": "Ford Motor Co.", 
+                    "watchlist_count": 56248
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 5481, 
+                    "is_following": false, 
+                    "symbol": "GE", 
+                    "title": "General Electric Co.", 
+                    "watchlist_count": 72573
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 5576, 
+                    "is_following": false, 
+                    "symbol": "GPS", 
+                    "title": "Gap Inc.", 
+                    "watchlist_count": 3573
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 5715, 
+                    "is_following": false, 
+                    "symbol": "HPQ", 
+                    "title": "Hewlett-Packard Company", 
+                    "watchlist_count": 7593
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 6183, 
+                    "is_following": false, 
+                    "symbol": "LLY", 
+                    "title": "Eli Lilly & Co.", 
+                    "watchlist_count": 4197
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 6403, 
+                    "is_following": false, 
+                    "symbol": "MU", 
+                    "title": "Micron Technology Inc.", 
+                    "watchlist_count": 83060
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 6728, 
+                    "is_following": false, 
+                    "symbol": "PFE", 
+                    "title": "Pfizer Inc.", 
+                    "watchlist_count": 15794
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 7322, 
+                    "is_following": false, 
+                    "symbol": "SWN", 
+                    "title": "Southwestern Energy Co.", 
+                    "watchlist_count": 6658
+                }, 
+                {
+                    "aliases": [
+                        "ATT"
+                    ], 
+                    "id": 7341, 
+                    "is_following": false, 
+                    "symbol": "T", 
+                    "title": "AT&T, Inc.", 
+                    "watchlist_count": 41079
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 9508, 
+                    "is_following": false, 
+                    "symbol": "KMI", 
+                    "title": "Kinder Morgan, Inc.", 
+                    "watchlist_count": 10280
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 12741, 
+                    "is_following": false, 
+                    "symbol": "KHC", 
+                    "title": "The Kraft Heinz Company", 
+                    "watchlist_count": 8294
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 12845, 
+                    "is_following": false, 
+                    "symbol": "HPE", 
+                    "title": "Hewlett Packard Enterprise", 
+                    "watchlist_count": 3911
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/608725/thumb-1487880040.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/608725/thumb-1487880040.png", 
+                "classification": [], 
+                "followers": 2761, 
+                "following": 45, 
+                "id": 608725, 
+                "ideas": 2847, 
+                "identity": "User", 
+                "join_date": "2015-10-01", 
+                "like_count": 278, 
+                "name": "Luis Santos", 
+                "official": false, 
+                "username": "BullBearCharts", 
+                "watchlist_stocks_count": 2
+            }
+        }, 
+        {
+            "body": "$AAPL live https://youtu.be/KCLxkpcMzo0", 
+            "conversation": {
+                "in_reply_to_message_id": null, 
+                "parent": true, 
+                "parent_message_id": 155605588, 
+                "replies": 1
+            }, 
+            "created_at": "2019-03-03T00:17:17Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155605588, 
+            "links": [
+                {
+                    "created_at": "2019-03-03T00:17:17Z", 
+                    "description": "Weekly Market Wrap Mar 1,19 by Dr J djia amd aapl oncs fit dvna snap iwm nio tsla twtr acb cgc tndm amzn Do your own due diligence and/or consult with your investment advisor. My opinions are my own and do not constitute investment advice.", 
+                    "image": "https://i.ytimg.com/vi/KCLxkpcMzo0/hqdefault.jpg", 
+                    "shortened_expanded_url": "youtube.com/watch?v=KCLxkpc...", 
+                    "shortened_url": "https://youtu.be/KCLxkpcMzo0", 
+                    "source": {
+                        "name": "YouTube", 
+                        "website": "https://www.youtube.com/"
+                    }, 
+                    "title": "Weekly Market Wrap 3/1 by Dr J djia amd aapl amzn oncs fit dvna snap iwm nio tsla twtr acb cgc tndm", 
+                    "url": "https://youtu.be/KCLxkpcMzo0", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1581456/thumb-1539823482.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1581456/thumb-1539823482.png", 
+                "classification": [], 
+                "followers": 300, 
+                "following": 172, 
+                "id": 1581456, 
+                "ideas": 13954, 
+                "identity": "User", 
+                "join_date": "2018-08-20", 
+                "like_count": 9412, 
+                "name": "Gregg", 
+                "official": false, 
+                "username": "SteelforceGreggTwits", 
+                "watchlist_stocks_count": 16
+            }
+        }, 
+        {
+            "body": "$AAPL  Apple (AAPL) Downgraded by ValuEngine  https://www.themarketsdaily.com/2019/03/02/apple-aapl-downgraded-by-valuengine.html", 
+            "created_at": "2019-03-03T00:10:27Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bearish"
+                }
+            }, 
+            "id": 155605416, 
+            "likes": {
+                "total": 1, 
+                "user_ids": [
+                    263416
+                ]
+            }, 
+            "links": [
+                {
+                    "created_at": "2019-03-03T00:10:28Z", 
+                    "description": "ValuEngine lowered shares of Apple (NASDAQ:AAPL) from a buy rating to a hold rating in a research note issued to investors on Friday morning. AAPL has been the topic of several other research reports. JPMorgan Chase & Co. restated a buy rating and set a $228.00 target price on shares of Apple in a report [...]", 
+                    "image": "https://www.marketbeat.com/logos/apple-inc-logo.png", 
+                    "shortened_expanded_url": "themarketsdaily.com/2019/03...", 
+                    "shortened_url": "https://www.themarketsdaily.com/2019/03/02/apple-aapl-downgraded-by-valuengine.html", 
+                    "source": {
+                        "name": "Markets Daily", 
+                        "website": "https://www.themarketsdaily.com"
+                    }, 
+                    "title": "Apple (AAPL) Downgraded by ValuEngine", 
+                    "url": "https://www.themarketsdaily.com/2019/03/02/apple-aapl-downgraded-by-valuengine.html", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286180
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/572878/thumb-1491234710.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/572878/thumb-1491234710.png", 
+                "classification": [], 
+                "followers": 47, 
+                "following": 2, 
+                "id": 572878, 
+                "ideas": 9265, 
+                "identity": "User", 
+                "join_date": "2015-08-18", 
+                "like_count": 8300, 
+                "name": "Peace and Love", 
+                "official": false, 
+                "username": "muchlove", 
+                "watchlist_stocks_count": 50
+            }
+        }, 
+        {
+            "body": "Watchlist Review $SPY $SPX $VIX $AAPL $GOOG $ROKU $CRSP $XPO $BILI $GE $GOLD https://www.youtube.com/watch?v=1PObwjbP2jg", 
+            "created_at": "2019-03-03T00:04:22Z", 
+            "entities": {
+                "chart": {
+                    "large": "https://charts.stocktwits.com/production/large_155605258.jpg", 
+                    "original": "https://charts.stocktwits.com/production/original_155605258.jpg", 
+                    "thumb": "https://charts.stocktwits.com/production/small_155605258.jpg", 
+                    "url": "https://charts.stocktwits.com/production/original_155605258.jpg"
+                }, 
+                "sentiment": null
+            }, 
+            "id": 155605258, 
+            "links": [
+                {
+                    "created_at": "2019-03-03T00:04:25Z", 
+                    "description": "Daily review of the US and Canadian markets - with a focus on tech and momentum stocks --------- 15 Day Free Trial https://blazecapital.com/product-cate...", 
+                    "image": "https://i.ytimg.com/vi/1PObwjbP2jg/hqdefault.jpg", 
+                    "shortened_expanded_url": "youtube.com/watch?v=1PObwjb...", 
+                    "shortened_url": "https://www.youtube.com/watch?v=1PObwjbP2jg", 
+                    "source": {
+                        "name": "YouTube", 
+                        "website": "https://www.youtube.com/"
+                    }, 
+                    "title": "Mar 1 - Stock Chart Technical Analysis", 
+                    "url": "https://www.youtube.com/watch?v=1PObwjbP2jg", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 629, 
+                    "is_following": false, 
+                    "symbol": "XPO", 
+                    "title": "XPO Logistics", 
+                    "watchlist_count": 3715
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 679, 
+                    "is_following": false, 
+                    "symbol": "SPX", 
+                    "title": "S&P 500 Index", 
+                    "watchlist_count": 38064
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 680, 
+                    "is_following": false, 
+                    "symbol": "VIX", 
+                    "title": "CBOE Volatility Index", 
+                    "watchlist_count": 14655
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286158
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 2039, 
+                    "is_following": false, 
+                    "symbol": "GOLD", 
+                    "title": "Barrick Gold Corporation", 
+                    "watchlist_count": 4210
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 2044, 
+                    "is_following": false, 
+                    "symbol": "GOOG", 
+                    "title": "Alphabet Inc. Class C", 
+                    "watchlist_count": 105623
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 5481, 
+                    "is_following": false, 
+                    "symbol": "GE", 
+                    "title": "General Electric Co.", 
+                    "watchlist_count": 72570
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 7271, 
+                    "is_following": false, 
+                    "symbol": "SPY", 
+                    "title": "SPDR S&P 500", 
+                    "watchlist_count": 115495
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 9039, 
+                    "is_following": false, 
+                    "symbol": "ROKU", 
+                    "title": "Roku", 
+                    "watchlist_count": 30734
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 13209, 
+                    "is_following": false, 
+                    "symbol": "CRSP", 
+                    "title": "CRISPR Therapeutics", 
+                    "watchlist_count": 9405
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 14488, 
+                    "is_following": false, 
+                    "symbol": "BILI", 
+                    "title": "BILIBILI INC.", 
+                    "watchlist_count": 8031
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/207797/thumb-1551075797.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/207797/thumb-1551075797.png", 
+                "classification": [], 
+                "followers": 896, 
+                "following": 24, 
+                "id": 207797, 
+                "ideas": 6963, 
+                "identity": "User", 
+                "join_date": "2013-01-16", 
+                "like_count": 1047, 
+                "name": "Blaze Capital", 
+                "official": false, 
+                "username": "BlazeCapital", 
+                "watchlist_stocks_count": 17
+            }
+        }, 
+        {
+            "body": "$AAPL - Apple (AAPL) Downgraded by ValuEngine https://www.themarketsdaily.com/2019/03/02/apple-aapl-downgraded-by-valuengine.html", 
+            "conversation": {
+                "in_reply_to_message_id": null, 
+                "parent": true, 
+                "parent_message_id": 155605108, 
+                "replies": 1
+            }, 
+            "created_at": "2019-03-03T00:00:17Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155605108, 
+            "likes": {
+                "total": 1, 
+                "user_ids": [
+                    572878
+                ]
+            }, 
+            "links": [
+                {
+                    "created_at": "2019-03-03T00:00:18Z", 
+                    "description": "ValuEngine lowered shares of Apple (NASDAQ:AAPL) from a buy rating to a hold rating in a research note issued to investors on Friday morning. AAPL has been the topic of several other research reports. JPMorgan Chase & Co. restated a buy rating and set a $228.00 target price on shares of Apple in a report [...]", 
+                    "image": "https://www.marketbeat.com/logos/apple-inc-logo.png", 
+                    "shortened_expanded_url": "themarketsdaily.com/2019/03...", 
+                    "shortened_url": "https://www.themarketsdaily.com/2019/03/02/apple-aapl-downgraded-by-valuengine.html", 
+                    "source": {
+                        "name": "Markets Daily", 
+                        "website": "https://www.themarketsdaily.com"
+                    }, 
+                    "title": "Apple (AAPL) Downgraded by ValuEngine", 
+                    "url": "https://www.themarketsdaily.com/2019/03/02/apple-aapl-downgraded-by-valuengine.html", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 4541, 
+                "title": "DansScalperAlgo", 
+                "url": "http://www.codebeaulieu.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286175
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/1404237/thumb-1546058190.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/1404237/thumb-1546058190.png", 
+                "classification": [], 
+                "followers": 76, 
+                "following": 64, 
+                "id": 1404237, 
+                "ideas": 1605, 
+                "identity": "User", 
+                "join_date": "2018-02-08", 
+                "like_count": 861, 
+                "name": "Dan", 
+                "official": false, 
+                "username": "Dan_Swings", 
+                "watchlist_stocks_count": 29
+            }
+        }, 
+        {
+            "body": "$TSLA $AMZN $AAPL $BA $GPS $FL $FB $GOOGL $WMT $SYNH $STMP $EBAY $KHC $GM $MSFT $CELG \n\nStocks: Major News (Perf)\n\nhttps://bullbearcharts.blogspot.com/2019/03/stocks-major-news.html", 
+            "created_at": "2019-03-02T23:58:34Z", 
+            "entities": {
+                "sentiment": {
+                    "basic": "Bullish"
+                }
+            }, 
+            "id": 155605069, 
+            "likes": {
+                "total": 1, 
+                "user_ids": [
+                    1899582
+                ]
+            }, 
+            "links": [
+                {
+                    "created_at": "2019-03-02T23:58:36Z", 
+                    "description": "Daily Performance Performance is historical and does not guarantee future results; current performance may be lower or higher. Frida...", 
+                    "image": "https://3.bp.blogspot.com/-JU9N31-jJfc/XHsYG-WMbPI/AAAAAAAABgc/HM_uSqDWOZkgHqvEqYnOhUJXu5dWxpakQCLcBGAs/w1200-h630-p-k-no-nu/major%2Bnews.png", 
+                    "shortened_expanded_url": "bullbearcharts.blogspot.com...", 
+                    "shortened_url": "https://bullbearcharts.blogspot.com/2019/03/stocks-major-news.html", 
+                    "source": {
+                        "name": "Bullbearcharts", 
+                        "website": "http://bullbearcharts.blogspot.com"
+                    }, 
+                    "title": "Stocks - Major News", 
+                    "url": "https://bullbearcharts.blogspot.com/2019/03/stocks-major-news.html", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286158
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 864, 
+                    "is_following": false, 
+                    "symbol": "AMZN", 
+                    "title": "Amazon.com Inc.", 
+                    "watchlist_count": 196362
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 1260, 
+                    "is_following": false, 
+                    "symbol": "CELG", 
+                    "title": "Celgene Corporation", 
+                    "watchlist_count": 18017
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 1666, 
+                    "is_following": false, 
+                    "symbol": "EBAY", 
+                    "title": "eBay Inc.", 
+                    "watchlist_count": 13359
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 2735, 
+                    "is_following": false, 
+                    "symbol": "MSFT", 
+                    "title": "Microsoft Corporation", 
+                    "watchlist_count": 113424
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 3677, 
+                    "is_following": false, 
+                    "symbol": "STMP", 
+                    "title": "Stamps.com Inc.", 
+                    "watchlist_count": 5466
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 4437, 
+                    "is_following": false, 
+                    "symbol": "BA", 
+                    "title": "Boeing Co.", 
+                    "watchlist_count": 29703
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 5356, 
+                    "is_following": false, 
+                    "symbol": "FL", 
+                    "title": "Foot Locker, Inc.", 
+                    "watchlist_count": 4893
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 5576, 
+                    "is_following": false, 
+                    "symbol": "GPS", 
+                    "title": "Gap Inc.", 
+                    "watchlist_count": 3573
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 7745, 
+                    "is_following": false, 
+                    "symbol": "WMT", 
+                    "title": "Walmart Stores Inc.", 
+                    "watchlist_count": 41592
+                }, 
+                {
+                    "aliases": [
+                        "FBOOK"
+                    ], 
+                    "id": 7871, 
+                    "is_following": false, 
+                    "symbol": "FB", 
+                    "title": "Facebook", 
+                    "watchlist_count": 204386
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 8660, 
+                    "is_following": false, 
+                    "symbol": "TSLA", 
+                    "title": "Tesla, Inc.", 
+                    "watchlist_count": 201753
+                }, 
+                {
+                    "aliases": [
+                        "RGM"
+                    ], 
+                    "id": 9358, 
+                    "is_following": false, 
+                    "symbol": "GM", 
+                    "title": "General Motors Company", 
+                    "watchlist_count": 17903
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 11938, 
+                    "is_following": false, 
+                    "symbol": "GOOGL", 
+                    "title": "Alphabet Inc. Class A", 
+                    "watchlist_count": 59733
+                }, 
+                {
+                    "aliases": [
+                        "INCR"
+                    ], 
+                    "id": 12263, 
+                    "is_following": false, 
+                    "symbol": "SYNH", 
+                    "title": "Syneos Health, Inc", 
+                    "watchlist_count": 359
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 12741, 
+                    "is_following": false, 
+                    "symbol": "KHC", 
+                    "title": "The Kraft Heinz Company", 
+                    "watchlist_count": 8290
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/608725/thumb-1487880040.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/608725/thumb-1487880040.png", 
+                "classification": [], 
+                "followers": 2761, 
+                "following": 45, 
+                "id": 608725, 
+                "ideas": 2835, 
+                "identity": "User", 
+                "join_date": "2015-10-01", 
+                "like_count": 278, 
+                "name": "Luis Santos", 
+                "official": false, 
+                "username": "BullBearCharts", 
+                "watchlist_stocks_count": 2
+            }
+        }, 
+        {
+            "body": "$AAPL zzzz hopefully AirPods 2 is announced this March. Should split product announcement every 6 months. Wearables March, Big Ones Sept.", 
+            "created_at": "2019-03-02T23:53:54Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155604950, 
+            "mentioned_users": [], 
+            "source": {
+                "id": 1149, 
+                "title": "StockTwits for iOS", 
+                "url": "http://www.stocktwits.com/mobile"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286158
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/392418/thumb-1440468604.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/392418/thumb-1440468604.png", 
+                "classification": [], 
+                "followers": 87, 
+                "following": 11, 
+                "id": 392418, 
+                "ideas": 3793, 
+                "identity": "User", 
+                "join_date": "2014-08-26", 
+                "like_count": 43, 
+                "name": "Steve Jobs", 
+                "official": false, 
+                "username": "StevePaulJobs", 
+                "watchlist_stocks_count": 36
+            }
+        }, 
+        {
+            "body": "NEW POST: ACJ Week 10 Members https://antichartjunk.com/2019/03/02/week-10-4-4-19/ $WWE $STNE $MTCH $ALRM $MEDP $CGC $AAPL $SQ $TWTR $FB $NVDA + 8 more!", 
+            "created_at": "2019-03-02T23:52:37Z", 
+            "entities": {
+                "sentiment": null
+            }, 
+            "id": 155604916, 
+            "links": [
+                {
+                    "created_at": "2019-03-02T23:52:37Z", 
+                    "description": "Add to watchlist as initial or secondary pivots: AAPL - 175.76 to 182.79 ABMD - 364.26 to 377.27 AMZN - 1737.01 to 1806.49 (new) CGC - 52.01 to 53.05 DATA - 128.26 to 133.39 EW - 167.26 to 173.95 FB - 172.51 to 178.63 GOOGL - 1155.01 to 1201.21 NFLX - 360.11 to 373.37 PLNT...", 
+                    "image": "https://s0.wp.com/i/blank.jpg", 
+                    "shortened_expanded_url": "antichartjunk.com/2019/03/0...", 
+                    "shortened_url": "https://antichartjunk.com/2019/03/02/week-10-4-4-19/", 
+                    "source": {
+                        "name": "antichartjunk", 
+                        "website": "http://antichartjunk.com"
+                    }, 
+                    "title": "Week 10 (4/4/19)", 
+                    "url": "https://antichartjunk.com/2019/03/02/week-10-4-4-19/", 
+                    "video_url": null
+                }
+            ], 
+            "mentioned_users": [], 
+            "source": {
+                "id": 2269, 
+                "title": "StockTwits Web", 
+                "url": "https://stocktwits.com"
+            }, 
+            "symbols": [
+                {
+                    "aliases": [], 
+                    "id": 686, 
+                    "is_following": false, 
+                    "symbol": "AAPL", 
+                    "title": "Apple Inc.", 
+                    "watchlist_count": 286158
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 2925, 
+                    "is_following": false, 
+                    "symbol": "NVDA", 
+                    "title": "NVIDIA Corporation", 
+                    "watchlist_count": 128341
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 7781, 
+                    "is_following": false, 
+                    "symbol": "WWE", 
+                    "title": "World Wrestling Entertainment Inc.", 
+                    "watchlist_count": 4923
+                }, 
+                {
+                    "aliases": [
+                        "FBOOK"
+                    ], 
+                    "id": 7871, 
+                    "is_following": false, 
+                    "symbol": "FB", 
+                    "title": "Facebook", 
+                    "watchlist_count": 204386
+                }, 
+                {
+                    "aliases": [
+                        "TWIT"
+                    ], 
+                    "id": 7872, 
+                    "is_following": false, 
+                    "symbol": "TWTR", 
+                    "title": "Twitter", 
+                    "watchlist_count": 130946
+                }, 
+                {
+                    "aliases": [
+                        "SQUARE"
+                    ], 
+                    "id": 7991, 
+                    "is_following": false, 
+                    "symbol": "SQ", 
+                    "title": "Square", 
+                    "watchlist_count": 65354
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 8260, 
+                    "is_following": false, 
+                    "symbol": "CGC", 
+                    "title": "Canopy Growth Corporation ", 
+                    "watchlist_count": 36706
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 12636, 
+                    "is_following": false, 
+                    "symbol": "ALRM", 
+                    "title": "Alarm.com ", 
+                    "watchlist_count": 1570
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 12863, 
+                    "is_following": false, 
+                    "symbol": "MTCH", 
+                    "title": "Match Group", 
+                    "watchlist_count": 7468
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 13157, 
+                    "is_following": false, 
+                    "symbol": "MEDP", 
+                    "title": "Medpace Holdings", 
+                    "watchlist_count": 661
+                }, 
+                {
+                    "aliases": [], 
+                    "id": 14986, 
+                    "is_following": false, 
+                    "symbol": "STNE", 
+                    "title": "StoneCo Ltd", 
+                    "watchlist_count": 999
+                }
+            ], 
+            "user": {
+                "avatar_url": "https://avatars.stocktwits.com/production/38876/thumb-1332159372.png", 
+                "avatar_url_ssl": "https://avatars.stocktwits.com/production/38876/thumb-1332159372.png", 
+                "classification": [], 
+                "followers": 292, 
+                "following": 14, 
+                "id": 38876, 
+                "ideas": 3226, 
+                "identity": "User", 
+                "join_date": "2011-01-03", 
+                "like_count": 462, 
+                "name": "acj", 
+                "official": false, 
+                "username": "antichartjunk", 
+                "watchlist_stocks_count": 14
+            }
+        }
+    ], 
+    "response": {
+        "status": 200
+    }, 
+    "symbol": {
+        "aliases": [], 
+        "id": 686, 
+        "is_following": false, 
+        "symbol": "AAPL", 
+        "title": "Apple Inc.", 
+        "watchlist_count": 286196
+    }
+}
