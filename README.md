@@ -1,6 +1,7 @@
 ## pystocktwits
 [![Build Status](https://travis-ci.com/khmurakami/pystocktwits.svg?branch=master)](https://travis-ci.com/khmurakami/pystocktwits)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub All Releases](https://img.shields.io/github/downloads/khmurakami/pystocktwits/total.svg)
 
 This is a Python Client for Stock Twits.
 
