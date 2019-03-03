@@ -37,17 +37,18 @@ class Streamer():
         url = self.url + 'streams/user/' + user_id + '.json'
 
         data = {
-                 'since' : '{}'.format(since),
-                 'max' : '{}'.format(max),
-                 'limit' : '{}'.format(limit),
-                 #Fix when you figure out what this is
-                 #'callback' : '{}'.format(None),
-                 'filter' : '{}'.format(filter)
+                 'since': '{}'.format(since),
+                 'max': '{}'.format(max),
+                 'limit': '{}'.format(limit),
+                 # Fix when you figure out what this is
+                 # 'callback' : '{}'.format(None),
+                 'filter': '{}'.format(filter)
                 }
 
         r = requests.get(url, headers=self.headers, params=data)
         if r.status_code != 200:
-            raise Exception('Unable to Return Request {}'.format(r.status_code))
+            raise Exception('Unable to Return Request {}'
+                            .format(r.status_code))
 
         raw_json = r.json()
         return raw_json
@@ -79,31 +80,38 @@ class Streamer():
         url = self.url + 'streams/symbol/' + symbol_id + '.json'
 
         data = {
-                 'since' : '{}'.format(since),
-                 'max' : '{}'.format(max),
-                 'limit' : '{}'.format(limit),
-                 #Fix when you figure out what this is
-                 #'callback' : '{}'.format(None),
-                 'filter' : '{}'.format(filter)
+                 'since': '{}'.format(since),
+                 'max': '{}'.format(max),
+                 'limit': '{}'.format(limit),
+                 # Fix when you figure out what this is
+                 # 'callback' : '{}'.format(None),
+                 'filter': '{}'.format(filter)
                 }
 
         r = requests.get(url, headers=self.headers, params=data)
         if r.status_code != 200:
-            raise Exception('Unable to Return Request {}'.format(r.status_code))
+            raise Exception('Unable to Return Request {}'
+                            .format(r.status_code))
 
         raw_json = r.json()
         return raw_json
 
-    def get_specified_conversation_msgs(self, conversation_id, since=0, max=0, limit=0, callback=None):
+    def get_specified_conversation_msgs(self, conversation_id, since=0, max=0,
+                                        limit=0, callback=None):
 
         '''
 
         Args:
-            conversation_id:	The message ID of the parent message to a conversation. (Required)
-            since:	Returns results with an ID greater than (more recent than) the specified ID.
-            max:	Returns results with an ID less than (older than) or equal to the specified ID.
-            limit:	Default and max limit is 30. This limit must be a number under 30.
-            callback:	Define your own callback function name, add this parameter as the value.
+            conversation_id:	The message ID of the parent message
+                                to a conversation. (Required)
+            since:	Returns results with an ID greater than (more recent than)
+                    the specified ID.
+            max:	Returns results with an ID less than (older than) or equal
+                    to the specified ID.
+            limit:	Default and max limit is 30. This limit must be a
+                    number under 30.
+            callback:	Define your own callback function name, add this
+                        parameter as the value.
 
         Return:
             raw_json (dict) = The JSON output unparsed
@@ -113,16 +121,17 @@ class Streamer():
         url = self.url + 'streams/conversation/' + conversation_id + '.json'
 
         data = {
-                 'since' : '{}'.format(since),
-                 'max' : '{}'.format(max),
-                 'limit' : '{}'.format(limit)
-                 #Fix when you figure out what this is
-                 #'callback' : '{}'.format(None),
+                 'since': '{}'.format(since),
+                 'max': '{}'.format(max),
+                 'limit': '{}'.format(limit)
+                 # Fix when you figure out what this is
+                 # 'callback' : '{}'.format(None),
                 }
 
         r = requests.get(url, headers=self.headers, params=data)
         if r.status_code != 200:
-            raise Exception('Unable to Return Request {}'.format(r.status_code))
+            raise Exception('Unable to Return Request {}'
+                            .format(r.status_code))
 
         raw_json = r.json()
         return raw_json
