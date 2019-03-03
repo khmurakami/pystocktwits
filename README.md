@@ -20,7 +20,7 @@ Also listed in requirements.txt:
 
 #### Install Locally
 
-This was only tested in Python 3.6
+This has been tested with Python 2.7, 3.3, 3.4, 3.5, 3.6 and 3.6-dev
 
 ```shell
 $ git clone https://github.com/khmurakami/pystocktwits
@@ -28,7 +28,7 @@ $ cd pystocktwits
 $ python setup.py install
 ```
 
-#### Install inside a virtualenv
+#### Install inside a Virtualenv
 
 ```shell
 $ pip3 install virtualenv
@@ -195,8 +195,6 @@ $ ./streams_user_curl.sh
 
 - Figure out how the callback part works in the functions when making the web call.
 - Create Flask App for the redirect uri
-- Clean up README.md
-- Fix __init__.py
 
 ## Links/Credits
 
