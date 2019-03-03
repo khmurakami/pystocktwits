@@ -10,6 +10,10 @@ This sadly doesn't include most of the API methods as they require a access toke
 
 This was mainly made to just parse for the sentiment in messages. The other functionality was not really needed.
 
+# Data Utils 
+
+If you want to parse the JSON, I have already made tools in a seperate repository for this: https://github.com/khmurakami/pystocktwits_data_utils
+
 ## Requirements
 
 Also listed in requirements.txt:
